@@ -1,0 +1,125 @@
+.heading {
+    height: 50px;
+    margin-top: 0;
+    margin-top: 10px;
+	padding: 20px;    
+	overflow: hidden;
+	background-color: darkblue;
+    color: white;
+    font-family: Arial;
+    font-size: 20px;
+    position: relative;
+}
+
+.heading img {
+	margin-left: 1px;
+    margin-right: 15px;
+    float: left;
+}
+
+body {
+	font-family: Verdana;
+	background: lightgrey;
+}
+
+
+#wrapper {
+    margin: 0 auto;
+    width: 850px;
+}
+
+#spancountry1 {
+	text-align: left;
+	color: lightgrey;
+	font-size: 20px;
+}
+
+#spancity1 {
+	text-align: left;
+	color: turquoise;
+	font-size: 28px;
+}
+
+#amsterdamprice {
+	text-align: right;
+	color: lightgrey;
+	font-size: 28px;
+
+}
+
+#Average {
+	text-align: right;
+	font-size: 20px;
+	color: lightgrey;
+}
+
+#spancountry2 {
+	text-align: left;
+	color: lightgrey;
+	font-size: 20px;
+}
+ 
+#spancity2 {
+	text-align: left;
+	color: turquoise;
+	font-size: 28px;
+} 
+
+#londonprice {
+	text-align: right;
+	color: lightgrey;
+	font-size: 28px;
+
+}
+
+#Average2 {
+	text-align: right;
+	color: lightgrey;
+	font-size: 20px;
+
+}
+#rcorners1 {
+    border-radius: 25px;
+    background: turquoise;
+    padding: 20px; 
+    width: 100px;
+    height: 50px;
+    text-align: center;
+
+}
+
+.difference {
+	text-align: center;
+}
+
+
+.images {
+	width: 400px;
+	height: 300px;
+}
+
+#box1 {
+	float: left;
+	border: solid;
+	border-width: thin;
+	background: white;
+
+}
+
+#box2 {
+	float: right;
+	border: solid;
+	border-width: thin;
+	background: white;
+}
+
+
+#footertext {
+	padding: 10px;
+}
+
+p {
+	margin-top: 0px;
+}
+
+
